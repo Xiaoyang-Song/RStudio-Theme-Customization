@@ -527,25 +527,6 @@ configuration like what we did for `.rstheme` file, those online editor
 may not be enough and you also have to dive into the source code and
 modify it, and it is harder to debug too.
 
-## Miscellaneous
-
-I have been interested in color theme setup for IDEs starting from my
-junior year and previously I designed several editor theme myself for VS
-Code and Pycharm based on my own preferences. However, this is my first
-time working on RStudio editor theme customization. For this project, I
-reviewed many documentations including RStudio official documentation
-regarding `.rstheme` file and illustrated it using my own understanding.
-I think that my previous experience really helps me a lot when writing
-this tutorial.
-
-In addition, I also reviewed and learned some core contents in CSS again
-in order to illustrate the relevant concepts correctly and clearly. As
-for evaluation of this project, I feel like this tutorial should be
-helpful for many people but people without experience in CSS may take
-more time to follow. For tutorial, there is always better to add more
-examples and illustration so I will keep revising this tutorial in the
-future and publish it after further polishing.
-
 ## References
 
 1.  <https://www.diva-portal.org/smash/get/diva2:1337805/FULLTEXT01.pdf>
