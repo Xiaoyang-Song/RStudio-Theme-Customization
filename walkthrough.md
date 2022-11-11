@@ -51,7 +51,12 @@ it should be similar for Windows/Linux users)
     to “Preferences”.
 
 <!-- <div class="imgctner"> -->
-<img class = 'center' style="height: auto; width: 40%;" src="imgs/1.1/preference.png" alt="1.1/preference"/>
+
+<img style="height: auto; width: 40%;display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="imgs/1.1/preference.png" alt="1.1/preference"/>
+
 <figcaption style="text-align: center;">
 Figure 1. The “Preferences” Page
 </figcaption>
@@ -63,7 +68,12 @@ Figure 1. The “Preferences” Page
     The panel on the right will show previews of your selected themes.
 
 <!-- <div class='container', style="text-align: center;"> -->
-<img class='center' style="height: auto; width: 45%;" src="imgs/1.1/appearance.png" alt="1.1/appearance"/>
+
+<img style="height: auto; width: 45%; display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="imgs/1.1/appearance.png" alt="1.1/appearance"/>
+
 <figcaption style="text-align: center;">
 Figure 2. The “Appearance” Panel
 </figcaption>
@@ -102,7 +112,7 @@ installed it using the following commands:
     create your own themes; but this is not the focus of this tutorial.
     If you are interested in that, please check
     [here](https://github.com/chriskempson/base16/blob/main/builder.md)
-    for more details. The “include\_base16” argument simply controls
+    for more details. The “include_base16” argument simply controls
     whether we want to download Base16-based themes.
 
 <!-- -->
@@ -123,7 +133,12 @@ RStudio console should look like this: (Note that your RStudio themes
 change automatically as you entered an interactive session)
 
 <!-- <div class='container', style="text-align: center;"> -->
-<img class='center' style="height: auto; width: 60%;" src="imgs/1.2/try.png" alt="1.1/appearance"/>
+
+<img style="height: auto; width: 60%;display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="imgs/1.2/try.png" alt="1.1/appearance"/>
+
 <figcaption style="text-align: center;">
 Figure 3. Interactive Theme Changing Session
 </figcaption>
@@ -138,12 +153,12 @@ to your favorite theme list following the prompts in the console.
     this may not work because of their RStudio security and privacy
     configurations), please simply try the following two methods:
 
--   Similar to what we did in 1.1, as we have already downloaded the
-    themes, we can always go to “RStudio -&gt; Preference -&gt;
-    Appearance” to change the themes.
--   On the other hand, we can deploy the theme simply by typing the
-    following command in console and specifying the name of the theme we
-    installed.
+- Similar to what we did in 1.1, as we have already downloaded the
+  themes, we can always go to “RStudio -&gt; Preference -&gt;
+  Appearance” to change the themes.
+- On the other hand, we can deploy the theme simply by typing the
+  following command in console and specifying the name of the theme we
+  installed.
 
 <!-- -->
 
@@ -192,7 +207,9 @@ to get a sense of how CSS works.
     the file with `.css` extension fully exploit the advantages of
     colors and has good visual effects.
 
-<div class='center', style="width:90%">
+<div style="display: block;
+  margin-left: auto;
+  margin-right: auto;">
 <img style="height: auto; width: 45%;" src="imgs/2.1/rstheme.png" alt="rstheme"/>
 &nbsp;
 &nbsp;
