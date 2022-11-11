@@ -3,10 +3,11 @@ title: "RStudio Theme Setup Tutorial"
 author: "Xiaoyang Song"
 date: "2022-11-11"
 output:
-  # html_document: default
-  # pdf_document: default
-    md_document:
-    variant: markdown_github
+  html_document: default
+  pdf_document:
+    default
+    # md_document:
+    # variant: markdown_github
 ---
 
 <style type="text/css">
