@@ -53,9 +53,12 @@ it should be similar for Windows/Linux users)
 <!-- <div class="imgctner"> -->
 <p align="center">
 <img style="height: auto; width: 40%;" src="imgs/1.1/preference.png" alt="1.1/preference"/>
-<figcaption style="text-align: center;">
+
+<!-- <figcaption style="align: center;"> -->
+
 Figure 1. The “Preferences” Page
-</figcaption>
+
+<!-- </figcaption> -->
 </p>
 
 <!-- <figcaption style="text-align: center;"></figcaption></div> -->
