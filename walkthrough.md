@@ -1,21 +1,3 @@
-<style type="text/css">
-  body{
-  margin: auto;
-  font-size: 12pt;
-  font-family: 'Avenir', sans-serif;
-  }
-</style>
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-</style>
-<!-- # RStudio Editor Theme Setup Tutorial -->
-
 ## Introduction & Motivation
 
 It is widely believed that most IDEs (Integrated Development
