@@ -122,7 +122,7 @@ In order to configure customized editor themes, we need to write a `.rstheme` fi
 
 ### 2.2 Download `.rstheme` file template & Setup
 
-1. Download the .rstheme template file from [here](https://github.com/Xiaoyang-Song/Personal-Config/blob/main/RStudio%20Theme/template.rstheme). After downloading it, open it using Visual Sudio Code (VS Code) or RStudio. The first one is recommended because it has a bunch of addins that we can utilize to make our life easier.
+1. Download the .rstheme template file from [here](https://github.com/Xiaoyang-Song/RStudio-Theme-Customization). After downloading it, open it using Visual Sudio Code (VS Code) or RStudio. The first one is recommended because it has a bunch of addins that we can utilize to make our life easier.
 
 2. Change the filename from `template.rstheme` to `template.css`. Note that we use `.css` extension here because VS Code will render it in a more elegant way than the raw `.rstheme` file. You can see that the file with `.css` extension fully exploit the advantages of colors and has good visual effects.
 
