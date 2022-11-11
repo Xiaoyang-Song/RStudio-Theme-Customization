@@ -51,12 +51,9 @@ it should be similar for Windows/Linux users)
     to “Preferences”.
 
 <!-- <div class="imgctner"> -->
-
-<img style="height: auto; width: 40%;display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;" src="imgs/1.1/preference.png" alt="1.1/preference"/>
-
+<p align="center">
+<img style="height: auto; width: 40%;" src="imgs/1.1/preference.png" alt="1.1/preference"/>
+</p>
 <figcaption style="text-align: center;">
 Figure 1. The “Preferences” Page
 </figcaption>
@@ -68,12 +65,7 @@ Figure 1. The “Preferences” Page
     The panel on the right will show previews of your selected themes.
 
 <!-- <div class='container', style="text-align: center;"> -->
-
-<img style="height: auto; width: 45%; display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;" src="imgs/1.1/appearance.png" alt="1.1/appearance"/>
-
+<img class='center' style="height: auto; width: 45%;" src="imgs/1.1/appearance.png" alt="1.1/appearance"/>
 <figcaption style="text-align: center;">
 Figure 2. The “Appearance” Panel
 </figcaption>
@@ -133,12 +125,7 @@ RStudio console should look like this: (Note that your RStudio themes
 change automatically as you entered an interactive session)
 
 <!-- <div class='container', style="text-align: center;"> -->
-
-<img style="height: auto; width: 60%;display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;" src="imgs/1.2/try.png" alt="1.1/appearance"/>
-
+<img class='center' style="height: auto; width: 60%;" src="imgs/1.2/try.png" alt="1.1/appearance"/>
 <figcaption style="text-align: center;">
 Figure 3. Interactive Theme Changing Session
 </figcaption>
@@ -207,9 +194,7 @@ to get a sense of how CSS works.
     the file with `.css` extension fully exploit the advantages of
     colors and has good visual effects.
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;">
+<div class='center', style="width:90%">
 <img style="height: auto; width: 45%;" src="imgs/2.1/rstheme.png" alt="rstheme"/>
 &nbsp;
 &nbsp;
