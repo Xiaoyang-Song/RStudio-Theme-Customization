@@ -53,10 +53,11 @@ it should be similar for Windows/Linux users)
 <!-- <div class="imgctner"> -->
 <p align="center">
 <img style="height: auto; width: 40%;" src="imgs/1.1/preference.png" alt="1.1/preference"/>
-</p>
 <figcaption style="text-align: center;">
 Figure 1. The “Preferences” Page
 </figcaption>
+</p>
+
 <!-- <figcaption style="text-align: center;"></figcaption></div> -->
 
 1.  Then go to “Appearances” and you can modify the overall theme of
