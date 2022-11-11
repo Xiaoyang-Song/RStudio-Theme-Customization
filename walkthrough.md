@@ -53,12 +53,11 @@ it should be similar for Windows/Linux users)
 <!-- <div class="imgctner"> -->
 <p align="center">
 <img style="height: auto; width: 40%;" src="imgs/1.1/preference.png" alt="1.1/preference"/>
-
 <!-- <figcaption style="align: center;"> -->
-
-Figure 1. The “Preferences” Page
-
 <!-- </figcaption> -->
+</p>
+<p align="center">
+Figure 1. The “Preferences” Page
 </p>
 
 <!-- <figcaption style="text-align: center;"></figcaption></div> -->
@@ -69,10 +68,16 @@ Figure 1. The “Preferences” Page
     The panel on the right will show previews of your selected themes.
 
 <!-- <div class='container', style="text-align: center;"> -->
-<img class='center' style="height: auto; width: 45%;" src="imgs/1.1/appearance.png" alt="1.1/appearance"/>
+<p align="center">
+<img style="height: auto; width: 45%;" src="imgs/1.1/appearance.png" alt="1.1/appearance"/>
+</p>
+<p align="center">
+Figure 2. The “Appearance” Panel
+</p>
+<!-- 
 <figcaption style="text-align: center;">
 Figure 2. The “Appearance” Panel
-</figcaption>
+</figcaption> -->
 
 Note that there is a button called “Add”, implying that we can import
 our own themes to RStudio. This is exactly what I will walk you through
@@ -128,11 +133,15 @@ themes on your own. Suppose you also want to explore “dark” themes, your
 RStudio console should look like this: (Note that your RStudio themes
 change automatically as you entered an interactive session)
 
-<!-- <div class='container', style="text-align: center;"> -->
-<img class='center' style="height: auto; width: 60%;" src="imgs/1.2/try.png" alt="1.1/appearance"/>
-<figcaption style="text-align: center;">
+<p align="center">
+<img style="height: auto; width: 60%;" src="imgs/1.2/try.png" alt="1.1/appearance"/>
+</p>
+<p align="center">
 Figure 3. Interactive Theme Changing Session
-</figcaption>
+</p>
+<!-- <figcaption style="text-align: center;">
+Figure 3. Interactive Theme Changing Session
+</figcaption> -->
 <!-- <figcaption style="text-align: center;"></figcaption></div>-->
 
 You can easily find the name of current theme at the bottom and add that
@@ -198,12 +207,13 @@ to get a sense of how CSS works.
     the file with `.css` extension fully exploit the advantages of
     colors and has good visual effects.
 
-<div class='center', style="width:90%">
+<p align='center'>
 <img style="height: auto; width: 45%;" src="imgs/2.1/rstheme.png" alt="rstheme"/>
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 47%;" src="imgs/2.1/css.png" alt="css"/>
-<figcaption style="text-align: center;">Figure. 4: .rstheme extension (left) and .css extension(right)</figcaption></div>
+</p>
+<p align='center'>Figure. 4: .rstheme extension (left) and .css extension(right)</p>
 
 However, this step is completely optional. If you are comfortable with
 directly editing the raw `.rstheme` file, you are welcome to do so as
@@ -224,9 +234,12 @@ but please check [this
 documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
 if you are interested in)
 
-<div class='center', style="text-align: center; width:90%">
+<p align='center'>
 <img style="height: auto; width: 50%;" src="imgs/2.3/global.png" alt="2.3/global"/>
-<figcaption style="text-align: center;">Figure 5. Global Variable Declaration</figcaption></div>
+</p>
+<p align='center'>
+Figure 5. Global Variable Declaration
+</p>
 
 Inside the root class, there are many useful global variables that we
 can define. To define your own color, you can follow any of the four
