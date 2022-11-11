@@ -198,7 +198,7 @@ to get a sense of how CSS works.
 ### 2.2 Download `.rstheme` file template & Setup
 
 1.  Download the .rstheme template file from
-    [here](https://github.com/Xiaoyang-Song/Personal-Config/blob/main/RStudio%20Theme/template.rstheme).
+    [here](https://github.com/Xiaoyang-Song/RStudio-Theme-Customization).
     After downloading it, open it using Visual Sudio Code (VS Code) or
     RStudio. The first one is recommended because it has a bunch of
     addins that we can utilize to make our life easier.
