@@ -1,6 +1,6 @@
 # RStudio-Theme-Customization
 
-## Introduction & Motivation
+## Motivation
 
 It is widely believed that most IDEs (Integrated Development
 Environments), including Visual Studio Code, R Studio, and PyCharm,
